@@ -17,19 +17,19 @@
 <h3 align="center">Utils I Use</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,django,docker,eclipse,git,github,linux,latex,maven,md,regex,selenium,sklearn,vscode,vscodium&theme=dark&perline=10" />
+  
   </br>
-  <img src="./icons/shiny_hex_logo.svg" width="45" />
+  <img src="./icons/Shiny_hex_logo.svg" width="45" />
   <img src="./icons/fedora-svgrepo-com.svg" width="55" />
   <img src="./icons/DuckDB_icon-darkmode.svg" width="55" />
   <img src="./icons/anaconda.svg" width="55">
-
-
 </p>
 
-<div hidden>
+
+<details>
+  <summary>Click to expand</summary>
 ![](icons/fedora-svgrepo-com.svg)
 
 <!-- ICON BLOCK -->
 <img src="./icons/shiny.svg" width="40" />
-</div>
-
+</details>
